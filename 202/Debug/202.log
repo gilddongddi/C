@@ -1,0 +1,4 @@
+﻿  202.c
+D:\C_source\c_300\202\202.c(8,8): warning C4101: 'pi' :참조되지 않은 지역 변수입니다.
+D:\C_source\c_300\202\202.c(7,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  202.vcxproj -> D:\C_source\c_300\202\Debug\202.exe
