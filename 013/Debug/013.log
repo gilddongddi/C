@@ -1,0 +1,3 @@
+﻿  013.c
+D:\C_source\013\013.c(11,14): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  013.vcxproj -> D:\C_source\013\Debug\013.exe
