@@ -11,7 +11,7 @@ void save(int amount)
     if(amount >= 0)
         printf("%d\t\t", amount);
     else
-        printf("\t%d\t", -amount);
+        printf("\t  %d\t", -amount);
     
     balance += amount;
     printf("%d\n", balance);
